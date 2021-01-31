@@ -1,0 +1,13 @@
+Date of admission: 31/01/2021 15:48:29
+Name : Manav Baksh
+Address : Bengaluru, Karnataka
+Contact Number : 9988998899
+Age : 22
+Sex : M
+Blood Group : B+ve
+Any Major disease suffered earlier : nil
+Patient ID : 1
+
+********************************************************************
+
+
