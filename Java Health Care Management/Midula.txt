@@ -1,1 +1,12 @@
+Date of admission: 31/01/2021 15:48:29
+Name : Cheparthi Midula
+Address : Bengaluru, Karnataka
+Contact Number : 9988997878
+Age : 22
+Sex : F
+Blood Group : O+ve
+Any Major disease suffered earlier : nil
+Patient ID : 2
+
+********************************************************************
 
